@@ -1,0 +1,10 @@
+{
+  "block.rokkitmod.copper_ore": "Copper Ore",
+  "block.rokkitmod.nickel_ore": "Nickel Ore",
+  "block.rokkitmod.silver_ore": "Silver Ore",
+  "item.rokkitmod.basic_processor": "Basic Processor",
+  "item.rokkitmod.copper_ingot": "Copper Ingot",
+  "item.rokkitmod.good_processor": "Good Processor",
+  "item.rokkitmod.nickel_ingot": "Nickel Ingot",
+  "item.rokkitmod.silver_ingot": "Silver Ingot"
+}
